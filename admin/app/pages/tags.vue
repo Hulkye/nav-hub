@@ -1,0 +1,17 @@
+<script setup lang="ts">
+import type { TableColumn } from '@nuxt/ui'
+definePageMeta({ layout: 'default' })
+type Tag = { id: string; name: string; slug: string; description: string; sort_order: number; icon_name?: string | null }
+const { data, refresh } = await useFetch<{ tags: Tag[] }>('/api/admin/tags')
+const tags = computed(() => [...(data.value?.tags ?? [])].sort((a, b) => a.sort_order - b.sort_order || a.name.localeCompare(b.name)))
+const q = ref(''); const page = ref(1); const pageSize = ref(20); const busy = ref(false); const error = ref('')
+const filtered = computed(() => tags.value.filter(item => [item.name, item.slug, item.description].join(' ').toLowerCase().includes(q.value.trim().toLowerCase())))
+const visible = computed(() => filtered.value.slice((page.value - 1) * pageSize.value, page.value * pageSize.value))
+watch([q, pageSize], () => { page.value = 1 })
+watch(() => filtered.value.length, count => { page.value = Math.min(page.value, Math.max(1, Math.ceil(count / pageSize.value))) })
+function message(err: unknown) { return err && typeof err === 'object' && 'data' in err ? String((err as { data?: { message?: string } }).data?.message ?? '操作失败') : '操作失败，请稍后重试' }
+async function saveOrder() { busy.value = true; error.value = ''; try { await $fetch('/api/admin/tags/order', { method: 'PUT', body: { items: tags.value.map((item, sortOrder) => ({ id: item.id, sortOrder })) } }); await refresh() } catch (err) { error.value = message(err) } finally { busy.value = false } }
+async function remove(tag: Tag) { if (!confirm(`删除标签「${tag.name}」？`)) return; busy.value = true; error.value = ''; try { await $fetch(`/api/admin/tags/${tag.id}`, { method: 'DELETE' }); await refresh() } catch (err) { error.value = message(err) } finally { busy.value = false } }
+const columns: TableColumn<Tag>[] = [{ accessorKey: 'name', header: '名称' }, { accessorKey: 'slug', header: 'Slug' }, { accessorKey: 'description', header: '描述' }, { accessorKey: 'sort_order', header: '排序' }, { id: 'actions', header: '操作', enableHiding: false }]
+</script>
+<template><AdminPage title="标签管理"><template #actions><UButton :to="{ path: '/categories/update', query: { kind: 'tags' } }" icon="i-lucide-plus">新增标签</UButton></template><UAlert v-if="error" color="error" :description="error" /><AdminTable v-model:page="page" :data="visible" :columns="columns" :total="filtered.length" :page-size="pageSize" :loading="busy" empty-title="暂无标签" empty-description="为内容添加标签后，访客可以按标签发现相关内容。"><template #search><UInput v-model="q" icon="i-lucide-search" placeholder="搜索名称、Slug…" class="max-w-sm" aria-label="搜索标签" /></template><template #filters><UButton label="保存排序" color="neutral" variant="outline" :loading="busy" @click="saveOrder" /></template><template #page-size><USelect v-model="pageSize" :items="[10, 20, 50, 100]" aria-label="每页数量" class="w-20" /></template><template #description-cell="{ row }"><span class="block truncate" :title="row.original.description">{{ row.original.description || '—' }}</span></template><template #actions-cell="{ row }"><UDropdownMenu :items="[{ label: '编辑', icon: 'i-lucide-pencil', to: { path: '/categories/update', query: { kind: 'tags', id: row.original.id } } }, { label: '删除', icon: 'i-lucide-trash', color: 'error', onSelect: () => remove(row.original) }]" :content="{ align: 'end' }"><UButton icon="i-lucide-ellipsis-vertical" color="neutral" variant="ghost" aria-label="标签操作" :disabled="busy" /></UDropdownMenu></template></AdminTable></AdminPage></template>

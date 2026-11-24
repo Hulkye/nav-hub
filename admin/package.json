@@ -1,0 +1,7 @@
+{
+  "name": "@navhub/admin",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "nuxt dev --dotenv ../.env", "build": "nuxt build --dotenv ../.env", "typecheck": "nuxt typecheck", "start": "node .output/server/index.mjs" },
+  "dependencies": { "@icon-park/vue-next": "^1.4.2", "@iconify-json/lucide": "^1.2.155", "@nuxt/ui": "^4.13.0", "nuxt": "^4.6.4", "tailwindcss": "^4.3.5", "vue": "^3.5.0", "vue-router": "^5.5.1", "zod": "^4.0.0" }
+}

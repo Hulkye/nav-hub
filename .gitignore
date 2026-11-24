@@ -1,0 +1,30 @@
+node_modules/
+.nuxt/
+.output/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Test and build caches
+coverage/
+*.tsbuildinfo
+
+# Local services and runtime data
+postgres_data/
+backups/
+storage/
+uploads/
+
+# Package manager and operating system files
+.codegraph
+.npm-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+
+demo/
+.data/

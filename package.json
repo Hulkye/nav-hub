@@ -1,0 +1,36 @@
+{
+  "name": "navhub-nuxt",
+  "private": true,
+  "type": "module",
+  "workspaces": ["app", "admin", "api"],
+  "engines": {
+    "node": ">=24 <25",
+    "npm": ">=10"
+  },
+  "scripts": {
+    "dev": "node scripts/run-applications.mjs dev",
+    "build": "npm run build --workspaces",
+    "start": "node scripts/run-applications.mjs start",
+    "typecheck": "npm run typecheck --workspaces",
+    "test": "tsx --test tests/*.test.ts",
+    "deploy:check": "node scripts/deploy-check.mjs",
+    "db:migrate": "tsx --env-file-if-exists=.env scripts/migrate.ts",
+    "db:backup": "node --env-file-if-exists=.env scripts/backup-db.mjs",
+    "links:check": "tsx --env-file-if-exists=.env scripts/check-links.ts",
+    "monitor:health": "node --env-file-if-exists=.env scripts/check-health.mjs",
+    "admin:create": "tsx --env-file-if-exists=.env scripts/create-admin.ts"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.0",
+    "pg": "^8.16.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.3.0",
+    "@types/node": "^24.0.0",
+    "@types/pg": "^8.15.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.8.0",
+    "vue-tsc": "^3.0.0"
+  }
+}

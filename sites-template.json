@@ -1,0 +1,2701 @@
+{
+  "collection": "sites",
+  "items": [
+    {
+      "title": "豆包",
+      "slug": "doubao-com-chat-618eb330",
+      "description": "豆包：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.doubao.com/chat/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "阶跃AI",
+      "slug": "stepfun-com-chats-new-7a9d8316",
+      "description": "阶跃AI：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.stepfun.com/chats/new",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "商量SenseChat",
+      "slug": "chat-sensetime-com-wb-home-d2e65793",
+      "description": "商量SenseChat：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://chat.sensetime.com/wb/home",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "腾讯元宝",
+      "slug": "yuanbao-tencent-com-chat-dda233e7",
+      "description": "腾讯元宝：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://yuanbao.tencent.com/chat",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "天工AI",
+      "slug": "tiangong-cn-1296424b",
+      "description": "天工AI：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.tiangong.cn/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f",
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "文心一言",
+      "slug": "chat-baidu-com-f5527f26",
+      "description": "文心一言：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://chat.baidu.com/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "讯飞星火",
+      "slug": "xinghuo-xfyun-cn-desk-c8dd5978",
+      "description": "讯飞星火：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://xinghuo.xfyun.cn/desk/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "智谱清言",
+      "slug": "chatglm-cn-f480a669",
+      "description": "智谱清言：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://chatglm.cn/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "ChatGPT",
+      "slug": "chatgpt-com-c6240ca8",
+      "description": "ChatGPT：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://chatgpt.com/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "Claude",
+      "slug": "claude-ai-743e483a",
+      "description": "Claude：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://claude.ai/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "DeepSeek",
+      "slug": "deepseek-com-b67044bc",
+      "description": "DeepSeek：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://deepseek.com/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "Duck.ai",
+      "slug": "duck-ai-5cd75e49",
+      "description": "Duck.ai：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://duck.ai/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "Grok",
+      "slug": "grok-com-d73d2981",
+      "description": "Grok：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://grok.com/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "Kimi智能助手",
+      "slug": "kimi-com-8d034162",
+      "description": "Kimi智能助手：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.kimi.com/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "LongCat",
+      "slug": "longcat-chat-1d8e6a26",
+      "description": "LongCat：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://longcat.chat/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "MiniMax",
+      "slug": "api-minimax-chat-c7412b2e",
+      "description": "MiniMax：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://api.minimax.chat/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "Z.ai",
+      "slug": "z-ai-f7a386a4",
+      "description": "Z.ai：通用 AI 对话，可用于问答、信息整理和日常任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://z.ai/",
+      "categoryIds": [
+        "e6a9f30f-d9f0-4f2e-890a-91a47b445c0f"
+      ]
+    },
+    {
+      "title": "360AI搜索",
+      "slug": "so-360-com-a71554f9",
+      "description": "360AI搜索：通过自然语言搜索信息，辅助查找资料和探索主题。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://so.360.com/",
+      "categoryIds": [
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "秘塔AI搜索",
+      "slug": "metaso-cn-50fa3598",
+      "description": "秘塔AI搜索：通过自然语言搜索信息，辅助查找资料和探索主题。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://metaso.cn/",
+      "categoryIds": [
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "纳米AI",
+      "slug": "n-cn-5fb00b0a",
+      "description": "纳米AI：通过自然语言搜索信息，辅助查找资料和探索主题。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.n.cn/",
+      "categoryIds": [
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "知乎直答",
+      "slug": "zhida-zhihu-com-e13d6d94",
+      "description": "知乎直答：通过自然语言搜索信息，辅助查找资料和探索主题。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://zhida.zhihu.com/",
+      "categoryIds": [
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "Felo",
+      "slug": "felo-ai-search-4c2ae546",
+      "description": "Felo：通过自然语言搜索信息，辅助查找资料和探索主题。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://felo.ai/search",
+      "categoryIds": [
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "Perplexity",
+      "slug": "perplexity-ai-cf0f4f75",
+      "description": "Perplexity：通过自然语言搜索信息，辅助查找资料和探索主题。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.perplexity.ai/",
+      "categoryIds": [
+        "d295edbc-00f7-452d-a202-2153feb38822"
+      ]
+    },
+    {
+      "title": "玻尔",
+      "slug": "bohrium-com-9a508b1d",
+      "description": "玻尔：辅助检索与分析专业信息，用于主题研究。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.bohrium.com/",
+      "categoryIds": [
+        "184b7a13-6fca-4130-bbcd-5fe7f0867031"
+      ]
+    },
+    {
+      "title": "AlphaSense",
+      "slug": "alpha-sense-com-564f1a28",
+      "description": "AlphaSense：辅助检索与分析专业信息，用于主题研究。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.alpha-sense.com/",
+      "categoryIds": [
+        "184b7a13-6fca-4130-bbcd-5fe7f0867031"
+      ]
+    },
+    {
+      "title": "AMiner",
+      "slug": "aminer-cn-open-research-559e51b7",
+      "description": "AMiner：面向学术资料检索，辅助查找论文和研究线索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aminer.cn/open/research",
+      "categoryIds": [
+        "25e6485d-26fb-4910-b68f-4891907595e7"
+      ]
+    },
+    {
+      "title": "WisPaper",
+      "slug": "wispaper-ai-eefd2608",
+      "description": "WisPaper：面向学术资料检索，辅助查找论文和研究线索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.wispaper.ai/",
+      "categoryIds": [
+        "25e6485d-26fb-4910-b68f-4891907595e7"
+      ]
+    },
+    {
+      "title": "Glean",
+      "slug": "glean-com-c9cdffe8",
+      "description": "Glean：面向组织资料的检索与问答，辅助查找内部知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.glean.com/",
+      "categoryIds": [
+        "4efa84fb-b08f-4cf2-8364-cb88bc6ec9f6"
+      ]
+    },
+    {
+      "title": "笔格AIPPT",
+      "slug": "bigppt-cn-cee97639",
+      "description": "笔格AIPPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.bigppt.cn/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "博思AIPPT",
+      "slug": "pptgo-cn-df32bc32",
+      "description": "博思AIPPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://pptgo.cn/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "美图AI PPT",
+      "slug": "designkit-com-ppt-a491354d",
+      "description": "美图AI PPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.designkit.com/ppt/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "文多多AiPPT",
+      "slug": "docmee-cn-6c2f1f85",
+      "description": "文多多AiPPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://docmee.cn/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "一点PPT",
+      "slug": "1dppt-com-47d4f94a",
+      "description": "一点PPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.1dppt.com/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "AiPPT",
+      "slug": "aippt-cn-5a2f0736",
+      "description": "AiPPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aippt.cn/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "GAIPPT",
+      "slug": "gaippt-com-14da234c",
+      "description": "GAIPPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.gaippt.com/",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "Pi智能PPT",
+      "slug": "pi-deepvinci-tech-idea-7c845c34",
+      "description": "Pi智能PPT：利用 AI 辅助制作演示文稿，整理大纲和页面内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://pi.deepvinci.tech/idea",
+      "categoryIds": [
+        "4020a2b0-7cc7-4196-a59b-308f2cffcf17"
+      ]
+    },
+    {
+      "title": "百度文库AI助手",
+      "slug": "wenku-baidu-com-ndlaunch-browse-chat-4a67b583",
+      "description": "百度文库AI助手：辅助处理文档内容，支持写作和办公资料整理。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://wenku.baidu.com/ndlaunch/browse/chat",
+      "categoryIds": [
+        "1c781874-5f2f-4675-8c3b-9bd298887141"
+      ]
+    },
+    {
+      "title": "排版小星",
+      "slug": "paibanxiaoxing-com-e34eab82",
+      "description": "排版小星：辅助处理文档内容，支持写作和办公资料整理。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://paibanxiaoxing.com/",
+      "categoryIds": [
+        "1c781874-5f2f-4675-8c3b-9bd298887141"
+      ]
+    },
+    {
+      "title": "办公小浣熊",
+      "slug": "xiaohuanxiong-com-work-home-a99137bc",
+      "description": "办公小浣熊：辅助分析表格数据与生成图表，支持日常数据办公。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://xiaohuanxiong.com/work/home",
+      "categoryIds": [
+        "f8bbab39-d2b6-419b-92a6-73515bf71239"
+      ]
+    },
+    {
+      "title": "ChartGen",
+      "slug": "chartgen-ai-zh-cn-b11a8be3",
+      "description": "ChartGen：辅助分析表格数据与生成图表，支持日常数据办公。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://chartgen.ai/zh-CN",
+      "categoryIds": [
+        "f8bbab39-d2b6-419b-92a6-73515bf71239"
+      ]
+    },
+    {
+      "title": "Diagramly",
+      "slug": "diagramly-ai-daa65318",
+      "description": "Diagramly：将文字或想法整理为可视化图示，辅助梳理结构。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://diagramly.ai/",
+      "categoryIds": [
+        "88e90602-7468-4811-9eb6-6af7b809d739"
+      ]
+    },
+    {
+      "title": "Diagrimo",
+      "slug": "tenorshare-ai-zh-tw-diagrimo-html-fc65ce0e",
+      "description": "Diagrimo：将文字或想法整理为可视化图示，辅助梳理结构。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.tenorshare.ai/zh-tw/diagrimo.html",
+      "categoryIds": [
+        "88e90602-7468-4811-9eb6-6af7b809d739"
+      ]
+    },
+    {
+      "title": "Napkin",
+      "slug": "napkin-ai-28be3f4d",
+      "description": "Napkin：将文字或想法整理为可视化图示，辅助梳理结构。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.napkin.ai/",
+      "categoryIds": [
+        "88e90602-7468-4811-9eb6-6af7b809d739"
+      ]
+    },
+    {
+      "title": "PicDoc",
+      "slug": "picdoc-cn-7ed86d22",
+      "description": "PicDoc：将文字或想法整理为可视化图示，辅助梳理结构。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.picdoc.cn/",
+      "categoryIds": [
+        "88e90602-7468-4811-9eb6-6af7b809d739"
+      ]
+    },
+    {
+      "title": "txyz",
+      "slug": "txyz-ai-a7dea0c3",
+      "description": "txyz：辅助阅读论文与文档，提取内容并围绕资料提问。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.txyz.ai/",
+      "categoryIds": [
+        "5a835580-9483-42ac-8f61-43f97d40b248"
+      ]
+    },
+    {
+      "title": "墨问",
+      "slug": "mowen-cn-63009115",
+      "description": "墨问：记录与整理个人内容，辅助沉淀笔记和知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://mowen.cn/",
+      "categoryIds": [
+        "68a579cd-9d2f-4c4b-9011-4beb82ed0b81"
+      ]
+    },
+    {
+      "title": "Noteshell",
+      "slug": "noteshell-io-cb6e1474",
+      "description": "Noteshell：记录与整理个人内容，辅助沉淀笔记和知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://noteshell.io/",
+      "categoryIds": [
+        "68a579cd-9d2f-4c4b-9011-4beb82ed0b81"
+      ]
+    },
+    {
+      "title": "万能小in",
+      "slug": "xiaoin-com-cn-home-index-92c10abc",
+      "description": "万能小in：管理个人资料并结合 AI 问答，辅助知识检索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://xiaoin.com.cn/home/index",
+      "categoryIds": [
+        "d9280454-f299-4b1c-89bb-44c1f65920e5"
+      ]
+    },
+    {
+      "title": "笔灵AI写作",
+      "slug": "ibiling-cn-f7051a5e",
+      "description": "笔灵AI写作：辅助生成文案和文本内容，支持日常写作构思。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://ibiling.cn/",
+      "categoryIds": [
+        "938bcb45-2f9a-402a-8645-9a5bb5cf0968"
+      ]
+    },
+    {
+      "title": "落笔AI写作",
+      "slug": "luobi-net-037596ab",
+      "description": "落笔AI写作：辅助生成文案和文本内容，支持日常写作构思。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://luobi.net/",
+      "categoryIds": [
+        "938bcb45-2f9a-402a-8645-9a5bb5cf0968"
+      ]
+    },
+    {
+      "title": "文优小助",
+      "slug": "wenyouxiaozhu-com-c2a8db7f",
+      "description": "文优小助：辅助生成文案和文本内容，支持日常写作构思。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://wenyouxiaozhu.com/",
+      "categoryIds": [
+        "938bcb45-2f9a-402a-8645-9a5bb5cf0968"
+      ]
+    },
+    {
+      "title": "小鱼AI写作",
+      "slug": "xiaoyuxiezuo-com-a6176d3a",
+      "description": "小鱼AI写作：辅助生成文案和文本内容，支持日常写作构思。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.xiaoyuxiezuo.com/",
+      "categoryIds": [
+        "938bcb45-2f9a-402a-8645-9a5bb5cf0968"
+      ]
+    },
+    {
+      "title": "丹青妙笔",
+      "slug": "danqingmiaobi-com-34498d46",
+      "description": "丹青妙笔：辅助起草文章、整理结构和完善表达。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.danqingmiaobi.com/",
+      "categoryIds": [
+        "769a089f-7089-42ef-a681-331b6b801278"
+      ]
+    },
+    {
+      "title": "光速写作",
+      "slug": "guangsuxie-com-static-college-write-web-home-49cc1d06",
+      "description": "光速写作：辅助起草文章、整理结构和完善表达。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.guangsuxie.com/static/college-write-web/home",
+      "categoryIds": [
+        "769a089f-7089-42ef-a681-331b6b801278"
+      ]
+    },
+    {
+      "title": "新华妙笔",
+      "slug": "miaobi-xinhuaskl-com-27a922dd",
+      "description": "新华妙笔：辅助起草文章、整理结构和完善表达。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://miaobi.xinhuaskl.com/",
+      "categoryIds": [
+        "769a089f-7089-42ef-a681-331b6b801278"
+      ]
+    },
+    {
+      "title": "笔灵AI小说",
+      "slug": "ibiling-cn-novel-workbench-f7ae2e9c",
+      "description": "笔灵AI小说：面向小说创作，辅助构思故事、角色和章节内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://ibiling.cn/novel-workbench/",
+      "categoryIds": [
+        "9af28650-d760-45f8-aa9f-e072d93d91eb"
+      ]
+    },
+    {
+      "title": "超级小说家",
+      "slug": "36ma-com-e88a4c30",
+      "description": "超级小说家：面向小说创作，辅助构思故事、角色和章节内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.36ma.com/",
+      "categoryIds": [
+        "9af28650-d760-45f8-aa9f-e072d93d91eb"
+      ]
+    },
+    {
+      "title": "FeelFish",
+      "slug": "feelfish-com-1f5229f9",
+      "description": "FeelFish：面向小说创作，辅助构思故事、角色和章节内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.feelfish.com/",
+      "categoryIds": [
+        "9af28650-d760-45f8-aa9f-e072d93d91eb"
+      ]
+    },
+    {
+      "title": "Inkwell Plot",
+      "slug": "inkwell-software-plot-efd2ac37",
+      "description": "Inkwell Plot：面向小说创作，辅助构思故事、角色和章节内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.inkwell.software/plot",
+      "categoryIds": [
+        "9af28650-d760-45f8-aa9f-e072d93d91eb"
+      ]
+    },
+    {
+      "title": "即梦AI",
+      "slug": "jimeng-jianying-com-ai-tool-home-f4adde9b",
+      "description": "即梦AI：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://jimeng.jianying.com/ai-tool/home/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "美图Whee",
+      "slug": "whee-com-333c7205",
+      "description": "美图Whee：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.whee.com/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "秒画",
+      "slug": "miaohua-sensetime-com-inspiration-07dcff1d",
+      "description": "秒画：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://miaohua.sensetime.com/inspiration",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "秒绘AI",
+      "slug": "miaohuiai-cc-88b9b055",
+      "description": "秒绘AI：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://miaohuiai.cc/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "文心一格",
+      "slug": "yige-baidu-com-506db2a3",
+      "description": "文心一格：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://yige.baidu.com/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "呜哩",
+      "slug": "wuli-art-830319ab",
+      "description": "呜哩：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://wuli.art/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "Adobe Firefly",
+      "slug": "firefly-adobe-com-e9df812c",
+      "description": "Adobe Firefly：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://firefly.adobe.com/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "Leonardo.ai",
+      "slug": "leonardo-ai-0c308620",
+      "description": "Leonardo.ai：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://leonardo.ai/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "Midjourney",
+      "slug": "midjourney-com-c9b8cc05",
+      "description": "Midjourney：根据文字描述生成图像，辅助视觉创作和灵感探索。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.midjourney.com/",
+      "categoryIds": [
+        "9dbdfcd2-7b21-440c-9473-5b0ea8ab47fc"
+      ]
+    },
+    {
+      "title": "RunningHub",
+      "slug": "runninghub-cn-28a1010c",
+      "description": "RunningHub：结合已有图片与创作指令，辅助生成新的图像内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.runninghub.cn/",
+      "categoryIds": [
+        "3a910a67-ed4a-4c4c-b7d2-7cc32cc237fa"
+      ]
+    },
+    {
+      "title": "图改改",
+      "slug": "tugaigai-com-23a7cb87",
+      "description": "图改改：使用 AI 辅助修改图片，支持视觉内容加工。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://tugaigai.com/",
+      "categoryIds": [
+        "dea91512-7f16-4a89-8baa-d4410ba6582e"
+      ]
+    },
+    {
+      "title": "AI改图神器",
+      "slug": "img-logosc-cn-859826bf",
+      "description": "AI改图神器：使用 AI 辅助修改图片，支持视觉内容加工。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://img.logosc.cn/",
+      "categoryIds": [
+        "dea91512-7f16-4a89-8baa-d4410ba6582e"
+      ]
+    },
+    {
+      "title": "Booltool",
+      "slug": "booltool-boolv-tech-home-1f307739",
+      "description": "Booltool：使用 AI 辅助修改图片，支持视觉内容加工。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://booltool.boolv.tech/home",
+      "categoryIds": [
+        "dea91512-7f16-4a89-8baa-d4410ba6582e"
+      ]
+    },
+    {
+      "title": "Fotor",
+      "slug": "fotor-com-cn-agent-627f4173",
+      "description": "Fotor：使用 AI 辅助修改图片，支持视觉内容加工。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.fotor.com.cn/agent/",
+      "categoryIds": [
+        "dea91512-7f16-4a89-8baa-d4410ba6582e"
+      ]
+    },
+    {
+      "title": "insMind",
+      "slug": "insmind-com-98c2992e",
+      "description": "insMind：使用 AI 辅助修改图片，支持视觉内容加工。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.insmind.com/",
+      "categoryIds": [
+        "dea91512-7f16-4a89-8baa-d4410ba6582e"
+      ]
+    },
+    {
+      "title": "美间AI抠图",
+      "slug": "meijian-com-mj-box-ai-pic-matting-intro-dde44e98",
+      "description": "美间AI抠图：辅助移除图片背景，适合素材处理与商品图整理。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.meijian.com/mj-box/ai-pic-matting-intro",
+      "categoryIds": [
+        "716b81a4-3941-459d-82d5-5047238d7bb1"
+      ]
+    },
+    {
+      "title": "可灵AI",
+      "slug": "app-klingai-com-cn-bdf95a52",
+      "description": "可灵AI：通过 AI 辅助生成视频，支持短片内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://app.klingai.com/cn/",
+      "categoryIds": [
+        "e0ebfcc5-744a-48cf-8a05-e31dfd13419f"
+      ]
+    },
+    {
+      "title": "Higgsfield",
+      "slug": "higgsfield-ai-bfb0d737",
+      "description": "Higgsfield：通过 AI 辅助生成视频，支持短片内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://higgsfield.ai/",
+      "categoryIds": [
+        "e0ebfcc5-744a-48cf-8a05-e31dfd13419f"
+      ]
+    },
+    {
+      "title": "PixTV",
+      "slug": "pixtv-art-04907c86",
+      "description": "PixTV：通过 AI 辅助生成视频，支持短片内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://pixtv.art/",
+      "categoryIds": [
+        "e0ebfcc5-744a-48cf-8a05-e31dfd13419f"
+      ]
+    },
+    {
+      "title": "TapNow",
+      "slug": "tapnow-ai-5bc4f86d",
+      "description": "TapNow：通过 AI 辅助生成视频，支持短片内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.tapnow.ai/",
+      "categoryIds": [
+        "e0ebfcc5-744a-48cf-8a05-e31dfd13419f"
+      ]
+    },
+    {
+      "title": "Vivix",
+      "slug": "vivix-ai-0b2c407a",
+      "description": "Vivix：通过 AI 辅助生成视频，支持短片内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://vivix.ai/",
+      "categoryIds": [
+        "e0ebfcc5-744a-48cf-8a05-e31dfd13419f"
+      ]
+    },
+    {
+      "title": "立刻成片",
+      "slug": "lickv-com-5218e7dc",
+      "description": "立刻成片：辅助剪辑和整理视频内容，支持短视频制作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://lickv.com/",
+      "categoryIds": [
+        "93196df3-906e-45d6-923a-296f55c8acb1"
+      ]
+    },
+    {
+      "title": "Blog2Video",
+      "slug": "blog2video-app-d7676013",
+      "description": "Blog2Video：辅助剪辑和整理视频内容，支持短视频制作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://blog2video.app/",
+      "categoryIds": [
+        "93196df3-906e-45d6-923a-296f55c8acb1"
+      ]
+    },
+    {
+      "title": "Filmora.TV",
+      "slug": "tv-filmora-cn-8574c5ff",
+      "description": "Filmora.TV：辅助剪辑和整理视频内容，支持短视频制作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://tv.filmora.cn/",
+      "categoryIds": [
+        "93196df3-906e-45d6-923a-296f55c8acb1"
+      ]
+    },
+    {
+      "title": "Klap",
+      "slug": "klap-app-e0a3e6de",
+      "description": "Klap：辅助剪辑和整理视频内容，支持短视频制作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://klap.app/",
+      "categoryIds": [
+        "93196df3-906e-45d6-923a-296f55c8acb1"
+      ]
+    },
+    {
+      "title": "OnSolo",
+      "slug": "onsolo-ai-cff37185",
+      "description": "OnSolo：辅助剪辑和整理视频内容，支持短视频制作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://onsolo.ai/",
+      "categoryIds": [
+        "93196df3-906e-45d6-923a-296f55c8acb1"
+      ]
+    },
+    {
+      "title": "绘梦工坊AI",
+      "slug": "huimengi-com-e2219ed8",
+      "description": "绘梦工坊AI：辅助制作动画或叙事视频，支持角色与故事内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://huimengi.com/",
+      "categoryIds": [
+        "3f8e4da0-542c-444c-ba2c-bbd399afdbf4"
+      ]
+    },
+    {
+      "title": "知漫剧",
+      "slug": "aw-jiaxunai-cn-abe44d9b",
+      "description": "知漫剧：辅助制作动画或叙事视频，支持角色与故事内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://aw.jiaxunai.cn/",
+      "categoryIds": [
+        "3f8e4da0-542c-444c-ba2c-bbd399afdbf4"
+      ]
+    },
+    {
+      "title": "逗哥配音",
+      "slug": "douge-com-companyprofile-eee58c56",
+      "description": "逗哥配音：将文字转换为语音，辅助制作配音和有声内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.douge.com/companyProfile",
+      "categoryIds": [
+        "aa8d3bf9-50a9-4aa5-ae83-6e25fb35e490"
+      ]
+    },
+    {
+      "title": "琅琅配音",
+      "slug": "lang123-top-0038a038",
+      "description": "琅琅配音：将文字转换为语音，辅助制作配音和有声内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://lang123.top/",
+      "categoryIds": [
+        "aa8d3bf9-50a9-4aa5-ae83-6e25fb35e490"
+      ]
+    },
+    {
+      "title": "魔音工坊",
+      "slug": "moyin-com-6d656af7",
+      "description": "魔音工坊：将文字转换为语音，辅助制作配音和有声内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.moyin.com/",
+      "categoryIds": [
+        "aa8d3bf9-50a9-4aa5-ae83-6e25fb35e490"
+      ]
+    },
+    {
+      "title": "万象有声",
+      "slug": "audimind-com-b0a74579",
+      "description": "万象有声：将文字转换为语音，辅助制作配音和有声内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.audimind.com/",
+      "categoryIds": [
+        "aa8d3bf9-50a9-4aa5-ae83-6e25fb35e490"
+      ]
+    },
+    {
+      "title": "讯飞听见",
+      "slug": "iflyrec-com-zhuanwenzi-html-a3b31652",
+      "description": "讯飞听见：将音频内容转为文字，辅助录音整理与转写。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.iflyrec.com/zhuanwenzi.html",
+      "categoryIds": [
+        "5cfd61ef-c25f-403c-9730-11e444ddd0a3"
+      ]
+    },
+    {
+      "title": "TurboScribe",
+      "slug": "turboscribe-ai-10d2eece",
+      "description": "TurboScribe：将音频内容转为文字，辅助录音整理与转写。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://turboscribe.ai/",
+      "categoryIds": [
+        "5cfd61ef-c25f-403c-9730-11e444ddd0a3"
+      ]
+    },
+    {
+      "title": "UniScribe",
+      "slug": "uniscribe-co-702aa136",
+      "description": "UniScribe：将音频内容转为文字，辅助录音整理与转写。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.uniscribe.co/",
+      "categoryIds": [
+        "5cfd61ef-c25f-403c-9730-11e444ddd0a3"
+      ]
+    },
+    {
+      "title": "海绵音乐",
+      "slug": "haimian-com-357e18c6",
+      "description": "海绵音乐：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.haimian.com/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "妙响",
+      "slug": "music-douyin-com-studio-1acaa68d",
+      "description": "妙响：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://music.douyin.com/studio",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "天谱乐",
+      "slug": "tianpuyue-cn-7008a632",
+      "description": "天谱乐：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://tianpuyue.cn/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "MELO音乐",
+      "slug": "51melo-com-9889bf30",
+      "description": "MELO音乐：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.51melo.com/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "MeloLab",
+      "slug": "melolab-ai-5ff9bb45",
+      "description": "MeloLab：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://melolab.ai/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "miya.fm",
+      "slug": "miya-fm-0d31060d",
+      "description": "miya.fm：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://miya.fm/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "Suno",
+      "slug": "suno-ai-92a26ca9",
+      "description": "Suno：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.suno.ai/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "Tunee",
+      "slug": "tunee-ai-24ec9e88",
+      "description": "Tunee：利用 AI 辅助生成音乐，支持旋律与歌曲创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.tunee.ai/",
+      "categoryIds": [
+        "d4b134ed-bcb0-481d-9ca9-ade509ce653d"
+      ]
+    },
+    {
+      "title": "墨刀AI",
+      "slug": "modao-cc-feature-ai-c41bec72",
+      "description": "墨刀AI：辅助界面设计与原型构思，支持产品设计协作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://modao.cc/feature/ai",
+      "categoryIds": [
+        "aa843925-5cdf-4503-ae36-6b8c3b7389a3"
+      ]
+    },
+    {
+      "title": "Figma AI",
+      "slug": "figma-com-ai-68d98b96",
+      "description": "Figma AI：辅助界面设计与原型构思，支持产品设计协作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.figma.com/ai/",
+      "categoryIds": [
+        "aa843925-5cdf-4503-ae36-6b8c3b7389a3"
+      ]
+    },
+    {
+      "title": "Pixso AI",
+      "slug": "paico-cn-483a26ec",
+      "description": "Pixso AI：辅助界面设计与原型构思，支持产品设计协作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://paico.cn/",
+      "categoryIds": [
+        "aa843925-5cdf-4503-ae36-6b8c3b7389a3"
+      ]
+    },
+    {
+      "title": "Stitch",
+      "slug": "stitch-withgoogle-com-25f53259",
+      "description": "Stitch：辅助界面设计与原型构思，支持产品设计协作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://stitch.withgoogle.com/",
+      "categoryIds": [
+        "aa843925-5cdf-4503-ae36-6b8c3b7389a3"
+      ]
+    },
+    {
+      "title": "堆友AI",
+      "slug": "d-design-23a5a3e0",
+      "description": "堆友AI：辅助制作海报和视觉设计，支持图文内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://d.design/",
+      "categoryIds": [
+        "fb13bd7d-5ee7-4faa-abaf-a1a1e023069c"
+      ]
+    },
+    {
+      "title": "稿定AI",
+      "slug": "gaoding-art-caccf577",
+      "description": "稿定AI：辅助制作海报和视觉设计，支持图文内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.gaoding.art/",
+      "categoryIds": [
+        "fb13bd7d-5ee7-4faa-abaf-a1a1e023069c"
+      ]
+    },
+    {
+      "title": "美图设计室",
+      "slug": "designkit-cn-15ca0723",
+      "description": "美图设计室：辅助制作海报和视觉设计，支持图文内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.designkit.cn/",
+      "categoryIds": [
+        "fb13bd7d-5ee7-4faa-abaf-a1a1e023069c"
+      ]
+    },
+    {
+      "title": "Canva AI",
+      "slug": "canva-cn-6e4cb9b8",
+      "description": "Canva AI：辅助制作海报和视觉设计，支持图文内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.canva.cn/",
+      "categoryIds": [
+        "fb13bd7d-5ee7-4faa-abaf-a1a1e023069c"
+      ]
+    },
+    {
+      "title": "Lovart",
+      "slug": "lovart-ai-c46fc0a5",
+      "description": "Lovart：辅助制作海报和视觉设计，支持图文内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.lovart.ai/",
+      "categoryIds": [
+        "fb13bd7d-5ee7-4faa-abaf-a1a1e023069c"
+      ]
+    },
+    {
+      "title": "Seede AI",
+      "slug": "seede-ai-9c7c7ed1",
+      "description": "Seede AI：辅助制作海报和视觉设计，支持图文内容创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://seede.ai/",
+      "categoryIds": [
+        "fb13bd7d-5ee7-4faa-abaf-a1a1e023069c"
+      ]
+    },
+    {
+      "title": "Holopix AI",
+      "slug": "holopix-cn-caed4ad7",
+      "description": "Holopix AI：辅助插画与矢量视觉素材创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://holopix.cn/",
+      "categoryIds": [
+        "d0d5349a-5573-4000-be7f-b4465c1fe4d4"
+      ]
+    },
+    {
+      "title": "QuiverAI",
+      "slug": "quiver-ai-4ea2a401",
+      "description": "QuiverAI：辅助插画与矢量视觉素材创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://quiver.ai/",
+      "categoryIds": [
+        "d0d5349a-5573-4000-be7f-b4465c1fe4d4"
+      ]
+    },
+    {
+      "title": "Recraft AI",
+      "slug": "recraft-ai-cbc6a8d0",
+      "description": "Recraft AI：辅助插画与矢量视觉素材创作。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.recraft.ai/",
+      "categoryIds": [
+        "d0d5349a-5573-4000-be7f-b4465c1fe4d4"
+      ]
+    },
+    {
+      "title": "GstarRender AI",
+      "slug": "gstarcad-com-ai-render-4c89849d",
+      "description": "GstarRender AI：辅助探索室内与建筑空间的设计效果。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.gstarcad.com/ai/render/",
+      "categoryIds": [
+        "879de4e3-f80b-431f-8186-885efdc334c4"
+      ]
+    },
+    {
+      "title": "Interiorize",
+      "slug": "interiorize-ai-2cc27c8f",
+      "description": "Interiorize：辅助探索室内与建筑空间的设计效果。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://interiorize.ai/",
+      "categoryIds": [
+        "879de4e3-f80b-431f-8186-885efdc334c4"
+      ]
+    },
+    {
+      "title": "蝉镜",
+      "slug": "chanjing-cc-f9f1f8f9",
+      "description": "蝉镜：辅助制作数字人口播视频，适用于讲解和展示内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.chanjing.cc/",
+      "categoryIds": [
+        "6f6ffc42-84f8-4024-a553-a118774f0ae9"
+      ]
+    },
+    {
+      "title": "魔珐星云",
+      "slug": "xingyun3d-com-0146261f",
+      "description": "魔珐星云：辅助制作数字人口播视频，适用于讲解和展示内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.xingyun3d.com/",
+      "categoryIds": [
+        "6f6ffc42-84f8-4024-a553-a118774f0ae9"
+      ]
+    },
+    {
+      "title": "有言",
+      "slug": "youyan3d-com-login-f6475db3",
+      "description": "有言：辅助制作数字人口播视频，适用于讲解和展示内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.youyan3d.com/login/",
+      "categoryIds": [
+        "6f6ffc42-84f8-4024-a553-a118774f0ae9"
+      ]
+    },
+    {
+      "title": "D-ID",
+      "slug": "d-id-com-0537c821",
+      "description": "D-ID：辅助制作数字人口播视频，适用于讲解和展示内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.d-id.com/",
+      "categoryIds": [
+        "6f6ffc42-84f8-4024-a553-a118774f0ae9"
+      ]
+    },
+    {
+      "title": "Pitch Avatar",
+      "slug": "pitchavatar-com-3269feab",
+      "description": "Pitch Avatar：辅助制作数字人口播视频，适用于讲解和展示内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://pitchavatar.com/",
+      "categoryIds": [
+        "6f6ffc42-84f8-4024-a553-a118774f0ae9"
+      ]
+    },
+    {
+      "title": "朱雀AI检测",
+      "slug": "matrix-tencent-com-ai-detect-f8dfa7d6",
+      "description": "朱雀AI检测：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://matrix.tencent.com/ai-detect/",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "AISEO AI Content Detector",
+      "slug": "aiseo-ai-tools-ai-content-detector-html-83900565",
+      "description": "AISEO AI Content Detector：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://aiseo.ai/tools/ai-content-detector.html",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "GPTZero",
+      "slug": "gptzero-me-8dc5b436",
+      "description": "GPTZero：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://gptzero.me/",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "Originality.AI",
+      "slug": "originality-ai-e307a518",
+      "description": "Originality.AI：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://originality.ai/",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "Sapling AI Content Detector",
+      "slug": "sapling-ai-utilities-ai-content-detector-39dd306a",
+      "description": "Sapling AI Content Detector：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://sapling.ai/utilities/ai-content-detector",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "Smodin AI Content Detector",
+      "slug": "smodin-io-ai-content-detector-2666e8df",
+      "description": "Smodin AI Content Detector：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://smodin.io/ai-content-detector",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "StudyCorgi ChatGPT Detector",
+      "slug": "studycorgi-com-free-writing-tools-chat-gpt-detector-0672f569",
+      "description": "StudyCorgi ChatGPT Detector：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://studycorgi.com/free-writing-tools/chat-gpt-detector",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "Winston AI",
+      "slug": "gowinston-ai-ec7b3e8c",
+      "description": "Winston AI：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://gowinston.ai/",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "Writecream AI Content Detector",
+      "slug": "writecream-com-ai-content-detector-89d3d293",
+      "description": "Writecream AI Content Detector：辅助判断文本的 AI 生成特征，检测结果供人工审核参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.writecream.com/ai-content-detector",
+      "categoryIds": [
+        "fb768429-2752-48dc-8aad-78962c75c33c"
+      ]
+    },
+    {
+      "title": "Proofig",
+      "slug": "proofig-com-4a17a314",
+      "description": "Proofig：辅助检查学术图像中的重复与异常情况。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.proofig.com/",
+      "categoryIds": [
+        "ab325584-832a-4cf4-8c32-c815214e2a94"
+      ]
+    },
+    {
+      "title": "CopyLeaks",
+      "slug": "copyleaks-com-46152126",
+      "description": "CopyLeaks：辅助检查文本相似度及内容原创性。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://copyleaks.com/",
+      "categoryIds": [
+        "07907bdf-2513-43e6-8c84-9dc3fcdfa95c"
+      ]
+    },
+    {
+      "title": "通义灵码",
+      "slug": "lingma-aliyun-com-lingma-1c3e01f9",
+      "description": "通义灵码：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://lingma.aliyun.com/lingma",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "Augment Code",
+      "slug": "augmentcode-com-5b5b4cb8",
+      "description": "Augment Code：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.augmentcode.com/",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "Claude Code",
+      "slug": "anthropic-com-claude-code-1c9dfd11",
+      "description": "Claude Code：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.anthropic.com/claude-code",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "Cline",
+      "slug": "cline-bot-f4d120a5",
+      "description": "Cline：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cline.bot/",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "Codex",
+      "slug": "openai-com-codex-3007713f",
+      "description": "Codex：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://openai.com/codex/",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "GitHub Copilot",
+      "slug": "github-com-features-copilot-02baedbf",
+      "description": "GitHub Copilot：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://github.com/features/copilot",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "Kilo Code",
+      "slug": "kilo-ai-91aee860",
+      "description": "Kilo Code：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://kilo.ai/",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "Kimi Code",
+      "slug": "kimi-com-code-7da4a393",
+      "description": "Kimi Code：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.kimi.com/code",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "MiniMax Code",
+      "slug": "agent-minimaxi-com-download-ecbaaa64",
+      "description": "MiniMax Code：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://agent.minimaxi.com/download",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "OpenCode",
+      "slug": "opencode-ai-15f3d522",
+      "description": "OpenCode：辅助编写与理解代码，支持日常开发任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://opencode.ai/",
+      "categoryIds": [
+        "e419dd75-e632-482e-9a34-54fa2867d5f4"
+      ]
+    },
+    {
+      "title": "CodeBuddy IDE",
+      "slug": "codebuddy-ai-504995b9",
+      "description": "CodeBuddy IDE：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.codebuddy.ai/",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "Cursor",
+      "slug": "cursor-com-7a4dc0a1",
+      "description": "Cursor：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cursor.com/",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "Kiro",
+      "slug": "kiro-dev-c8b5fa2b",
+      "description": "Kiro：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://kiro.dev/",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "Qoder",
+      "slug": "qoder-com-18cacd65",
+      "description": "Qoder：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://qoder.com/",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "TRAE-AI编程",
+      "slug": "trae-cn-ecc72de3",
+      "description": "TRAE-AI编程：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.trae.cn/",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "Trae（英文版）",
+      "slug": "trae-ai-f2dfd4fb",
+      "description": "Trae（英文版）：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.trae.ai/",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "Windsurf",
+      "slug": "codeium-com-windsurf-d788a04f",
+      "description": "Windsurf：将 AI 辅助能力融入开发环境，支持项目编码。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://codeium.com/windsurf",
+      "categoryIds": [
+        "b82b0918-0c41-4683-b447-c666f1d3057d"
+      ]
+    },
+    {
+      "title": "网易CodeWave",
+      "slug": "codewave-163-com-ef61cfe3",
+      "description": "网易CodeWave：使用自然语言辅助生成网页或应用原型。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://codewave.163.com/",
+      "categoryIds": [
+        "a832b5f8-d9b8-4285-bc6d-934aef23458e"
+      ]
+    },
+    {
+      "title": "CodeDesign.ai",
+      "slug": "codedesign-ai-b4176539",
+      "description": "CodeDesign.ai：使用自然语言辅助生成网页或应用原型。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://codedesign.ai/",
+      "categoryIds": [
+        "a832b5f8-d9b8-4285-bc6d-934aef23458e"
+      ]
+    },
+    {
+      "title": "Lovable",
+      "slug": "lovable-dev-8be1c781",
+      "description": "Lovable：使用自然语言辅助生成网页或应用原型。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://lovable.dev/",
+      "categoryIds": [
+        "a832b5f8-d9b8-4285-bc6d-934aef23458e"
+      ]
+    },
+    {
+      "title": "Wegic",
+      "slug": "wegic-ai-54dd3ffd",
+      "description": "Wegic：使用自然语言辅助生成网页或应用原型。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://wegic.ai/",
+      "categoryIds": [
+        "a832b5f8-d9b8-4285-bc6d-934aef23458e"
+      ]
+    },
+    {
+      "title": "YouWare",
+      "slug": "youware-com-41d14732",
+      "description": "YouWare：使用自然语言辅助生成网页或应用原型。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.youware.com/",
+      "categoryIds": [
+        "a832b5f8-d9b8-4285-bc6d-934aef23458e"
+      ]
+    },
+    {
+      "title": "Replay QA",
+      "slug": "replay-io-c13b0ae1",
+      "description": "Replay QA：辅助生成与执行测试，支持应用质量检查。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://replay.io/",
+      "categoryIds": [
+        "7e6d2f9a-e948-41d7-8001-1321e465fed5"
+      ]
+    },
+    {
+      "title": "TestSprite",
+      "slug": "testsprite-com-04b5a581",
+      "description": "TestSprite：辅助生成与执行测试，支持应用质量检查。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.testsprite.com/",
+      "categoryIds": [
+        "7e6d2f9a-e948-41d7-8001-1321e465fed5"
+      ]
+    },
+    {
+      "title": "元空AI Work",
+      "slug": "yuankongai-com-27b33ac5",
+      "description": "元空AI Work：通过 AI 智能体辅助规划并执行多步骤任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.yuankongai.com/",
+      "categoryIds": [
+        "809f8627-21c4-4124-abaf-f0a3420ef2ed"
+      ]
+    },
+    {
+      "title": "Manus",
+      "slug": "manus-im-479b0251",
+      "description": "Manus：通过 AI 智能体辅助规划并执行多步骤任务。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://manus.im/",
+      "categoryIds": [
+        "809f8627-21c4-4124-abaf-f0a3420ef2ed"
+      ]
+    },
+    {
+      "title": "扣子",
+      "slug": "coze-cn-062ca194",
+      "description": "扣子：搭建 AI 智能体与知识应用，支持配置任务流程。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.coze.cn/",
+      "categoryIds": [
+        "3e39e2b7-4e61-40f8-85e7-24f088daae0d"
+      ]
+    },
+    {
+      "title": "AgentGPT",
+      "slug": "agentgpt-reworkd-ai-2e88a5b0",
+      "description": "AgentGPT：搭建 AI 智能体与知识应用，支持配置任务流程。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://agentgpt.reworkd.ai/",
+      "categoryIds": [
+        "3e39e2b7-4e61-40f8-85e7-24f088daae0d"
+      ]
+    },
+    {
+      "title": "Dify",
+      "slug": "dify-ai-8059b6a8",
+      "description": "Dify：搭建 AI 智能体与知识应用，支持配置任务流程。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://dify.ai/",
+      "categoryIds": [
+        "3e39e2b7-4e61-40f8-85e7-24f088daae0d"
+      ]
+    },
+    {
+      "title": "FastGPT",
+      "slug": "cloud-fastgpt-cn-dashboard-templatemarket-81421e4b",
+      "description": "FastGPT：搭建 AI 智能体与知识应用，支持配置任务流程。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cloud.fastgpt.cn/dashboard/templateMarket",
+      "categoryIds": [
+        "3e39e2b7-4e61-40f8-85e7-24f088daae0d"
+      ]
+    },
+    {
+      "title": "n8n",
+      "slug": "n8n-io-88ed6a00",
+      "description": "n8n：通过可视化流程连接应用与 AI 能力，辅助任务自动化。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://n8n.io/",
+      "categoryIds": [
+        "75e9a34b-6a27-4ec6-a19f-0cc1d297a0a7"
+      ]
+    },
+    {
+      "title": "Tabstack",
+      "slug": "tabstack-ai-54cd64a7",
+      "description": "Tabstack：提供浏览器任务执行能力，辅助网页操作自动化。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://tabstack.ai/",
+      "categoryIds": [
+        "f480b4da-b97e-4a0f-b047-91bb5f3f22a4"
+      ]
+    },
+    {
+      "title": "书生大模型",
+      "slug": "intern-ai-org-cn-5b134a74",
+      "description": "书生大模型：展示语言模型及相关能力，供了解与开发使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://intern-ai.org.cn/",
+      "categoryIds": [
+        "d3fdd57c-b5a6-417c-aa87-667c1961640e"
+      ]
+    },
+    {
+      "title": "Gemma",
+      "slug": "ai-google-dev-gemma-fadc15ea",
+      "description": "Gemma：展示语言模型及相关能力，供了解与开发使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://ai.google.dev/gemma",
+      "categoryIds": [
+        "d3fdd57c-b5a6-417c-aa87-667c1961640e"
+      ]
+    },
+    {
+      "title": "LLaMA",
+      "slug": "github-com-facebookresearch-llama-12838a03",
+      "description": "LLaMA：展示语言模型及相关能力，供了解与开发使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://github.com/facebookresearch/llama",
+      "categoryIds": [
+        "d3fdd57c-b5a6-417c-aa87-667c1961640e"
+      ]
+    },
+    {
+      "title": "Llama 3",
+      "slug": "llama-meta-com-llama3-c5a5397f",
+      "description": "Llama 3：展示语言模型及相关能力，供了解与开发使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://llama.meta.com/llama3/",
+      "categoryIds": [
+        "d3fdd57c-b5a6-417c-aa87-667c1961640e"
+      ]
+    },
+    {
+      "title": "OpenBMB",
+      "slug": "openbmb-org-home-d22d7730",
+      "description": "OpenBMB：展示语言模型及相关能力，供了解与开发使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.openbmb.org/home",
+      "categoryIds": [
+        "d3fdd57c-b5a6-417c-aa87-667c1961640e"
+      ]
+    },
+    {
+      "title": "腾讯混元大模型",
+      "slug": "hunyuan-tencent-com-f03d8970",
+      "description": "腾讯混元大模型：提供多模态模型相关信息与开发资源。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://hunyuan.tencent.com/",
+      "categoryIds": [
+        "52b88803-6fe8-4255-8b4a-98242b74de24"
+      ]
+    },
+    {
+      "title": "文心大模型",
+      "slug": "wenxin-baidu-com-3266cec2",
+      "description": "文心大模型：提供多模态模型相关信息与开发资源。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://wenxin.baidu.com/",
+      "categoryIds": [
+        "52b88803-6fe8-4255-8b4a-98242b74de24"
+      ]
+    },
+    {
+      "title": "阿里云百炼",
+      "slug": "aliyun-com-minisite-goods-e6703475",
+      "description": "阿里云百炼：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aliyun.com/minisite/goods",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "BigModel",
+      "slug": "bigmodel-cn-efa72c66",
+      "description": "BigModel：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.bigmodel.cn/",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "Cohere",
+      "slug": "cohere-com-57f17b11",
+      "description": "Cohere：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cohere.com/",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "Google AI Studio",
+      "slug": "aistudio-google-com-666a914b",
+      "description": "Google AI Studio：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://aistudio.google.com/",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "OpenRouter",
+      "slug": "openrouter-ai-ca864c2b",
+      "description": "OpenRouter：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://openrouter.ai/",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "SiliconFlow",
+      "slug": "cloud-siliconflow-cn-fdeb119b",
+      "description": "SiliconFlow：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cloud.siliconflow.cn/",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "ZenMux",
+      "slug": "zenmux-ai-b3901a60",
+      "description": "ZenMux：提供模型访问接口，支持 AI 应用开发与集成。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://zenmux.ai/",
+      "categoryIds": [
+        "27a59711-ed3c-4c2b-978f-fe261ffd63cb"
+      ]
+    },
+    {
+      "title": "ToolJet",
+      "slug": "tooljet-com-387c40e8",
+      "description": "ToolJet：提供应用搭建与开发工具，辅助构建业务应用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://tooljet.com/",
+      "categoryIds": [
+        "8c3d8288-ffb0-48fa-8106-fd15d72e2cdd"
+      ]
+    },
+    {
+      "title": "Trickle AI",
+      "slug": "trickle-so-65225ae4",
+      "description": "Trickle AI：提供应用搭建与开发工具，辅助构建业务应用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://trickle.so/",
+      "categoryIds": [
+        "8c3d8288-ffb0-48fa-8106-fd15d72e2cdd"
+      ]
+    },
+    {
+      "title": "AutoGPT",
+      "slug": "agpt-co-332b3810",
+      "description": "AutoGPT：提供开放的 AI 应用方案，支持知识问答或任务辅助。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://agpt.co/",
+      "categoryIds": [
+        "a9aa6a27-0e0c-4adf-976b-62aa77f019a2"
+      ]
+    },
+    {
+      "title": "Gradio",
+      "slug": "gradio-app-2dda508d",
+      "description": "Gradio：提供模型演示与交互界面框架，辅助原型验证。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://gradio.app/",
+      "categoryIds": [
+        "5d373ece-2072-4936-9187-1c667f04a334"
+      ]
+    },
+    {
+      "title": "Cherry Studio",
+      "slug": "cherry-ai-com-61fcc424",
+      "description": "Cherry Studio：在本地运行或接入模型，辅助个人 AI 使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.cherry-ai.com/",
+      "categoryIds": [
+        "24f226b8-254a-43a2-8992-959a5a354322"
+      ]
+    },
+    {
+      "title": "Jan",
+      "slug": "jan-ai-1b2d3854",
+      "description": "Jan：在本地运行或接入模型，辅助个人 AI 使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://jan.ai/",
+      "categoryIds": [
+        "24f226b8-254a-43a2-8992-959a5a354322"
+      ]
+    },
+    {
+      "title": "Ollama",
+      "slug": "ollama-ai-269aa8f3",
+      "description": "Ollama：在本地运行或接入模型，辅助个人 AI 使用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://ollama.ai/",
+      "categoryIds": [
+        "24f226b8-254a-43a2-8992-959a5a354322"
+      ]
+    },
+    {
+      "title": "LMArena",
+      "slug": "lmarena-ai-5244a6ca",
+      "description": "LMArena：提供模型能力对比与评测结果，辅助选型参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://lmarena.ai/",
+      "categoryIds": [
+        "a310f66f-75ba-40f2-b7b1-83f09fd5f002"
+      ]
+    },
+    {
+      "title": "MagicArena",
+      "slug": "aigcarena-com-11dac4aa",
+      "description": "MagicArena：提供模型能力对比与评测结果，辅助选型参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://aigcarena.com/",
+      "categoryIds": [
+        "a310f66f-75ba-40f2-b7b1-83f09fd5f002"
+      ]
+    },
+    {
+      "title": "Open LLM Leaderboard",
+      "slug": "huggingface-co-spaces-huggingfaceh4-open-llm-leaderboard-6db78e1a",
+      "description": "Open LLM Leaderboard：提供模型能力对比与评测结果，辅助选型参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+      "categoryIds": [
+        "a310f66f-75ba-40f2-b7b1-83f09fd5f002"
+      ]
+    },
+    {
+      "title": "SuperCLUE",
+      "slug": "cluebenchmarks-com-static-superclue-html-ce524770",
+      "description": "SuperCLUE：提供模型能力对比与评测结果，辅助选型参考。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.cluebenchmarks.com/static/superclue.html",
+      "categoryIds": [
+        "a310f66f-75ba-40f2-b7b1-83f09fd5f002"
+      ]
+    },
+    {
+      "title": "AGI-Eval",
+      "slug": "agi-eval-cn-mvp-home-9f3d3e9a",
+      "description": "AGI-Eval：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://agi-eval.cn/mvp/home",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "C-Eval",
+      "slug": "cevalbenchmark-com-index-zh-html-c8751db7",
+      "description": "C-Eval：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cevalbenchmark.com/index_zh.html",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "CMMLU",
+      "slug": "github-com-haonan-li-cmmlu-bf39cb3d",
+      "description": "CMMLU：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://github.com/haonan-li/CMMLU",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "FlagEval",
+      "slug": "flageval-baai-ac-cn-9b68c4e9",
+      "description": "FlagEval：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://flageval.baai.ac.cn/",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "HELM",
+      "slug": "crfm-stanford-edu-helm-latest-b6f566fa",
+      "description": "HELM：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://crfm.stanford.edu/helm/latest/",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "MMBench",
+      "slug": "mmbench-opencompass-org-cn-0cd0bece",
+      "description": "MMBench：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://mmbench.opencompass.org.cn/",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "MMLU",
+      "slug": "paperswithcode-com-sota-multi-task-language-understanding-on-mmlu-b20c5fee",
+      "description": "MMLU：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "OpenCompass",
+      "slug": "opencompass-org-cn-leaderboard-llm-610db5ff",
+      "description": "OpenCompass：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://opencompass.org.cn/leaderboard-llm",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "PubMedQA",
+      "slug": "pubmedqa-github-io-e1e9362c",
+      "description": "PubMedQA：提供模型评测工具或基准，辅助检验模型能力。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://pubmedqa.github.io/",
+      "categoryIds": [
+        "d847cfe7-6177-47dd-951c-a6998f804c2d"
+      ]
+    },
+    {
+      "title": "Adside",
+      "slug": "adside-ai-43dfb6b9",
+      "description": "Adside：辅助制作广告创意与营销视觉内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.adside.ai/",
+      "categoryIds": [
+        "93380a16-81b6-428c-8000-1023f9b3541d"
+      ]
+    },
+    {
+      "title": "MelonAds",
+      "slug": "melonads-ai-7942dc50",
+      "description": "MelonAds：辅助制作广告创意与营销视觉内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://melonads.ai/",
+      "categoryIds": [
+        "93380a16-81b6-428c-8000-1023f9b3541d"
+      ]
+    },
+    {
+      "title": "绘蛙",
+      "slug": "ihuiwa-com-5ed219e0",
+      "description": "绘蛙：辅助生成或处理电商商品视觉内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.ihuiwa.com/",
+      "categoryIds": [
+        "4a135712-e02c-4809-a099-f9393fbf81a1"
+      ]
+    },
+    {
+      "title": "青虎AI",
+      "slug": "iqinghu-com-613387dc",
+      "description": "青虎AI：辅助生成或处理电商商品视觉内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.iqinghu.com/",
+      "categoryIds": [
+        "4a135712-e02c-4809-a099-f9393fbf81a1"
+      ]
+    },
+    {
+      "title": "Pic Copilot",
+      "slug": "piccopilot-com-create-746200f1",
+      "description": "Pic Copilot：辅助生成或处理电商商品视觉内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.piccopilot.com/create/",
+      "categoryIds": [
+        "4a135712-e02c-4809-a099-f9393fbf81a1"
+      ]
+    },
+    {
+      "title": "PixPix",
+      "slug": "pixpix-art-164f383a",
+      "description": "PixPix：辅助生成或处理电商商品视觉内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.pixpix.art/",
+      "categoryIds": [
+        "4a135712-e02c-4809-a099-f9393fbf81a1"
+      ]
+    },
+    {
+      "title": "Reading Coach",
+      "slug": "coach-microsoft-com-a91eea6d",
+      "description": "Reading Coach：通过 AI 辅助外语阅读与语言学习练习。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://coach.microsoft.com/",
+      "categoryIds": [
+        "efecab1e-1016-4a04-8b72-47fde951810c"
+      ]
+    },
+    {
+      "title": "Trancy",
+      "slug": "trancy-org-zh-cn-a5c37940",
+      "description": "Trancy：通过 AI 辅助外语阅读与语言学习练习。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://trancy.org/zh-cn",
+      "categoryIds": [
+        "efecab1e-1016-4a04-8b72-47fde951810c"
+      ]
+    },
+    {
+      "title": "笔目鱼",
+      "slug": "bmysci-com-2373ba11",
+      "description": "笔目鱼：辅助论文资料整理与学术写作，使用时需自行核实内容及引用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.bmysci.com/",
+      "categoryIds": [
+        "b45e9ab3-3332-49a4-9649-1899226b31f3"
+      ]
+    },
+    {
+      "title": "稿易AI论文",
+      "slug": "gaoyiai-com-79ab4298",
+      "description": "稿易AI论文：辅助论文资料整理与学术写作，使用时需自行核实内容及引用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://gaoyiai.com/",
+      "categoryIds": [
+        "b45e9ab3-3332-49a4-9649-1899226b31f3"
+      ]
+    },
+    {
+      "title": "维普科创助手",
+      "slug": "super-cqvip-com-d1fbfa75",
+      "description": "维普科创助手：辅助论文资料整理与学术写作，使用时需自行核实内容及引用。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://super.cqvip.com/",
+      "categoryIds": [
+        "b45e9ab3-3332-49a4-9649-1899226b31f3"
+      ]
+    },
+    {
+      "title": "Applystead",
+      "slug": "applystead-com-26519f51",
+      "description": "Applystead：辅助整理求职材料，支持简历与求职准备。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://applystead.com/",
+      "categoryIds": [
+        "3435b499-5cd0-4c96-9c2d-b0f3813181ef"
+      ]
+    },
+    {
+      "title": "CV Genius",
+      "slug": "cvgenius-com-202c07fe",
+      "description": "CV Genius：辅助整理求职材料，支持简历与求职准备。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://cvgenius.com/",
+      "categoryIds": [
+        "3435b499-5cd0-4c96-9c2d-b0f3813181ef"
+      ]
+    },
+    {
+      "title": "Jobmate AI",
+      "slug": "usejobmate-com-b4456c45",
+      "description": "Jobmate AI：辅助整理求职材料，支持简历与求职准备。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://usejobmate.com/",
+      "categoryIds": [
+        "3435b499-5cd0-4c96-9c2d-b0f3813181ef"
+      ]
+    },
+    {
+      "title": "AI Short",
+      "slug": "aishort-top-b187809e",
+      "description": "AI Short：提供通用对话提示词参考，辅助组织提问方式。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aishort.top/",
+      "categoryIds": [
+        "a7054685-b743-42b2-81b6-b781ee160d6b"
+      ]
+    },
+    {
+      "title": "Awesome ChatGPT Prompts",
+      "slug": "prompts-chat-c7372fdd",
+      "description": "Awesome ChatGPT Prompts：提供通用对话提示词参考，辅助组织提问方式。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://prompts.chat/",
+      "categoryIds": [
+        "a7054685-b743-42b2-81b6-b781ee160d6b"
+      ]
+    },
+    {
+      "title": "Generrated",
+      "slug": "generrated-com-1aa427ff",
+      "description": "Generrated：整理图像生成相关提示词，辅助探索视觉创作思路。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://generrated.com/",
+      "categoryIds": [
+        "2ead4ff0-1746-42ff-a030-2cd0c97f511f"
+      ]
+    },
+    {
+      "title": "MeiGen",
+      "slug": "meigen-ai-deffd1bb",
+      "description": "MeiGen：整理图像生成相关提示词，辅助探索视觉创作思路。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.meigen.ai/",
+      "categoryIds": [
+        "2ead4ff0-1746-42ff-a030-2cd0c97f511f"
+      ]
+    },
+    {
+      "title": "PromptHero",
+      "slug": "prompthero-com-4ad31899",
+      "description": "PromptHero：整理图像生成相关提示词，辅助探索视觉创作思路。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://prompthero.com/",
+      "categoryIds": [
+        "2ead4ff0-1746-42ff-a030-2cd0c97f511f"
+      ]
+    },
+    {
+      "title": "PublicPrompts",
+      "slug": "publicprompts-art-e95aa3ac",
+      "description": "PublicPrompts：整理图像生成相关提示词，辅助探索视觉创作思路。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://publicprompts.art/",
+      "categoryIds": [
+        "2ead4ff0-1746-42ff-a030-2cd0c97f511f"
+      ]
+    },
+    {
+      "title": "AI Prompt Generator",
+      "slug": "aipromptgenerator-net-zh-d4efee23",
+      "description": "AI Prompt Generator：辅助生成、组织或优化 AI 提示词。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aipromptgenerator.net/zh",
+      "categoryIds": [
+        "8b9470c7-f2f5-478b-89b0-3ff2158ff60f"
+      ]
+    },
+    {
+      "title": "PromptPerfect",
+      "slug": "promptperfect-jinaai-cn-3e02b875",
+      "description": "PromptPerfect：辅助生成、组织或优化 AI 提示词。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://promptperfect.jinaai.cn/",
+      "categoryIds": [
+        "8b9470c7-f2f5-478b-89b0-3ff2158ff60f"
+      ]
+    },
+    {
+      "title": "PromptPilot",
+      "slug": "promptpilot-volcengine-com-4ea65351",
+      "description": "PromptPilot：辅助生成、组织或优化 AI 提示词。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://promptpilot.volcengine.com/",
+      "categoryIds": [
+        "8b9470c7-f2f5-478b-89b0-3ff2158ff60f"
+      ]
+    },
+    {
+      "title": "AI Prompt Genius",
+      "slug": "aipromptgenius-app-091be6de",
+      "description": "AI Prompt Genius：管理与复用提示词，辅助整理常用指令。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aipromptgenius.app/",
+      "categoryIds": [
+        "cbb61537-170f-4cb0-81b8-3d18ad5756b2"
+      ]
+    },
+    {
+      "title": "AIPRM",
+      "slug": "aiprm-com-eab6b7c4",
+      "description": "AIPRM：管理与复用提示词，辅助整理常用指令。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aiprm.com/",
+      "categoryIds": [
+        "cbb61537-170f-4cb0-81b8-3d18ad5756b2"
+      ]
+    },
+    {
+      "title": "ClickPrompt",
+      "slug": "prompt-phodal-com-69a4bbed",
+      "description": "ClickPrompt：管理与复用提示词，辅助整理常用指令。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://prompt.phodal.com/",
+      "categoryIds": [
+        "cbb61537-170f-4cb0-81b8-3d18ad5756b2"
+      ]
+    },
+    {
+      "title": "PromptFolder",
+      "slug": "prompt-noonshot-com-010cb530",
+      "description": "PromptFolder：管理与复用提示词，辅助整理常用指令。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://prompt.noonshot.com/",
+      "categoryIds": [
+        "cbb61537-170f-4cb0-81b8-3d18ad5756b2"
+      ]
+    },
+    {
+      "title": "魔搭社区",
+      "slug": "modelscope-cn-40abb443",
+      "description": "魔搭社区：提供模型和开发资源交流，辅助了解 AI 开发实践。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.modelscope.cn/",
+      "categoryIds": [
+        "9ea25c8d-570a-4222-9b04-53783ea54cb7"
+      ]
+    },
+    {
+      "title": "Civitai",
+      "slug": "civitai-com-a824b04f",
+      "description": "Civitai：面向图像创作的社区，可浏览模型、作品与创作经验。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://civitai.com/",
+      "categoryIds": [
+        "8b26e4b8-e48b-4d42-af25-92229be56f4d"
+      ]
+    },
+    {
+      "title": "LiblibAI·哩布哩布AI",
+      "slug": "liblib-art-7391e5e6",
+      "description": "LiblibAI·哩布哩布AI：面向图像创作的社区，可浏览模型、作品与创作经验。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.liblib.art/",
+      "categoryIds": [
+        "8b26e4b8-e48b-4d42-af25-92229be56f4d"
+      ]
+    },
+    {
+      "title": "Kaggle",
+      "slug": "kaggle-com-5d2ddb13",
+      "description": "Kaggle：提供数据科学实践与竞赛交流资源。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.kaggle.com/",
+      "categoryIds": [
+        "9077a55e-3028-4fea-97d9-fe6fd01ec80c"
+      ]
+    },
+    {
+      "title": "Day of AI",
+      "slug": "dayofai-org-418548b9",
+      "description": "Day of AI：提供机器学习与生成式 AI 入门内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://dayofai.org/",
+      "categoryIds": [
+        "b3283494-7478-4974-bcf9-9d6aff6bbcbc"
+      ]
+    },
+    {
+      "title": "Generative AI for Beginners",
+      "slug": "microsoft-github-io-generative-ai-for-beginners-b47a4f04",
+      "description": "Generative AI for Beginners：提供机器学习与生成式 AI 入门内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://microsoft.github.io/generative-ai-for-beginners/",
+      "categoryIds": [
+        "b3283494-7478-4974-bcf9-9d6aff6bbcbc"
+      ]
+    },
+    {
+      "title": "Google AI",
+      "slug": "ai-google-3409f00c",
+      "description": "Google AI：提供机器学习与生成式 AI 入门内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://ai.google/",
+      "categoryIds": [
+        "b3283494-7478-4974-bcf9-9d6aff6bbcbc"
+      ]
+    },
+    {
+      "title": "ML for Beginners",
+      "slug": "microsoft-github-io-ml-for-beginners-ba8adfa9",
+      "description": "ML for Beginners：提供机器学习与生成式 AI 入门内容。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://microsoft.github.io/ML-For-Beginners/",
+      "categoryIds": [
+        "b3283494-7478-4974-bcf9-9d6aff6bbcbc"
+      ]
+    },
+    {
+      "title": "AI大学堂",
+      "slug": "aidaxue-com-9095a6b0",
+      "description": "AI大学堂：提供 AI 或机器学习课程，适合系统学习相关知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.aidaxue.com/",
+      "categoryIds": [
+        "f1887f25-125c-4a1f-aeae-86b0c0332cef"
+      ]
+    },
+    {
+      "title": "Coursera",
+      "slug": "coursera-org-collections-best-machine-learning-ai-b6302265",
+      "description": "Coursera：提供 AI 或机器学习课程，适合系统学习相关知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.coursera.org/collections/best-machine-learning-ai",
+      "categoryIds": [
+        "f1887f25-125c-4a1f-aeae-86b0c0332cef"
+      ]
+    },
+    {
+      "title": "DeepLearning.AI",
+      "slug": "deeplearning-ai-62068e11",
+      "description": "DeepLearning.AI：提供 AI 或机器学习课程，适合系统学习相关知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.deeplearning.ai/",
+      "categoryIds": [
+        "f1887f25-125c-4a1f-aeae-86b0c0332cef"
+      ]
+    },
+    {
+      "title": "Elements of AI",
+      "slug": "elementsofai-com-7752018c",
+      "description": "Elements of AI：提供 AI 或机器学习课程，适合系统学习相关知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.elementsofai.com/",
+      "categoryIds": [
+        "f1887f25-125c-4a1f-aeae-86b0c0332cef"
+      ]
+    },
+    {
+      "title": "fast.ai",
+      "slug": "fast-ai-032a6261",
+      "description": "fast.ai：提供 AI 或机器学习课程，适合系统学习相关知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.fast.ai/",
+      "categoryIds": [
+        "f1887f25-125c-4a1f-aeae-86b0c0332cef"
+      ]
+    },
+    {
+      "title": "Udacity AI学院",
+      "slug": "udacity-com-school-artificial-intelligence-3a07771d",
+      "description": "Udacity AI学院：提供 AI 或机器学习课程，适合系统学习相关知识。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.udacity.com/school/artificial-intelligence",
+      "categoryIds": [
+        "f1887f25-125c-4a1f-aeae-86b0c0332cef"
+      ]
+    },
+    {
+      "title": "动手学深度学习",
+      "slug": "zh-d2l-ai-6e88f819",
+      "description": "动手学深度学习：提供深度学习教材与学习资源，辅助规划学习。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://zh.d2l.ai/",
+      "categoryIds": [
+        "ec9b0091-25ac-446a-859e-5687c8e9ce58"
+      ]
+    },
+    {
+      "title": "MachineLearningMastery",
+      "slug": "machinelearningmastery-com-18c4c706",
+      "description": "MachineLearningMastery：提供深度学习教材与学习资源，辅助规划学习。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://machinelearningmastery.com/",
+      "categoryIds": [
+        "ec9b0091-25ac-446a-859e-5687c8e9ce58"
+      ]
+    },
+    {
+      "title": "提示工程指南",
+      "slug": "promptingguide-ai-zh-70e7d331",
+      "description": "提示工程指南：介绍提示词设计与应用方法，辅助学习提问技巧。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://www.promptingguide.ai/zh",
+      "categoryIds": [
+        "eb3c6647-e14f-45be-b93c-fec02fea40cb"
+      ]
+    },
+    {
+      "title": "LangGPT",
+      "slug": "github-com-langgptai-langgpt-10703f13",
+      "description": "LangGPT：介绍提示词设计与应用方法，辅助学习提问技巧。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://github.com/langgptai/LangGPT",
+      "categoryIds": [
+        "eb3c6647-e14f-45be-b93c-fec02fea40cb"
+      ]
+    },
+    {
+      "title": "Learning Prompt",
+      "slug": "learningprompt-wiki-f275835e",
+      "description": "Learning Prompt：介绍提示词设计与应用方法，辅助学习提问技巧。",
+      "status": "draft",
+      "tagIds": [],
+      "targetUrl": "https://learningprompt.wiki/",
+      "categoryIds": [
+        "eb3c6647-e14f-45be-b93c-fec02fea40cb"
+      ]
+    }
+  ]
+}
